@@ -1,7 +1,7 @@
 {
-  "name": "AFK Bot",
+  "name": "AFK Bot 2",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Slobot01",
     "password": "",
     "type": "offline"
   },
@@ -27,11 +27,11 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
-      "repeat": true,
+      "enabled": true,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player"
+        "/server drugi"
       ]
     },
     "chat-log": true,
